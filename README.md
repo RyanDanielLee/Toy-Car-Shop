@@ -1,4 +1,4 @@
-# Toy-Car-Shop (School Project)
+# Toy-Car-Shop 
 A full stack shopping app that is built on React and Nodejs using fakerjs and other React packages.
 
 To view a live version of the website, visit: https://ryanafdhalcarshop.netlify.app/
