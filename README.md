@@ -6,7 +6,7 @@ To view a live version of the website, visit: https://ryanafdhalcarshop.netlify.
 
 ![image](https://user-images.githubusercontent.com/105259018/233517232-c3102e08-db83-4916-86c9-ffbfcc684e98.png)
 
-## Learn More
+## React Framework Guide
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
